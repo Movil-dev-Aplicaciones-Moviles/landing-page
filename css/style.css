@@ -351,13 +351,9 @@
 .carousel-track {
     display: flex;
     gap: 1.5rem;
-    overflow-x: auto; /* Allows manual scroll as a fallback */
+    overflow-x: hidden; /* Cambia 'auto' por 'hidden' para ocultar la barra fea */
     scroll-behavior: smooth;
     padding: 1rem;
-    margin: 0 -1rem; /* Compensates for padding to align cards to the edge */
-    /* Hide scrollbar */
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
 }
 .carousel-track::-webkit-scrollbar {
     display: none; /* Chrome, Safari, and Opera */
