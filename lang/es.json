@@ -188,5 +188,9 @@
   "interest_maintenance": "Automatización de Mantenimiento",
   "interest_full": "Sistema Completo SmartStay",
   "form_message": "Mensaje Adicional",
-  "form_send": "Enviar Mensaje"
+  "form_send": "Enviar Mensaje",
+  "try_apk_title": "Experimenta Smart Stay Ahora",
+  "try_apk_subtitle": "No te quedes solo en la lectura. Descarga nuestra app móvil directamente desde nuestro repositorio y prueba la experiencia del huésped de primera mano.",
+  "try_apk_btn": "Probar Ahora (APK)",
+  "try_apk_note": "*Disponible para dispositivos Android."
 }
