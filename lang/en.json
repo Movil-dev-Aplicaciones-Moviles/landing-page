@@ -157,7 +157,6 @@
   "team_video_ceo": "CEO - Italo Verona",
   "team_video_cto": "CTO - Jane Doe",
   "team_video_cmo": "CMO - Emily Martinez",
-
   "// --- CONTACT FORM ---": {},
   "contact_title": "Contact Us",
   "contact_subtitle": "Tell us about your hotel and let’s build something amazing together.",
@@ -175,6 +174,25 @@
   "try_apk_title": "Experience Smart Stay Now",
   "try_apk_subtitle": "Don't just read about it. Download our mobile app directly from our repository and test the guest experience firsthand.",
   "try_apk_btn": "Try Now (APK)",
-  "try_apk_note": "*Available for Android devices."
+  "try_apk_note": "*Available for Android devices.",
+  "success_highlight_hotels": "+150 Hotels Connected",
+  "success_highlight_time": "Avg. Time Saved",
+  "success_highlight_systems": "Systems Unified",
+  "success_highlight_rating": "Guest Rating",
+  "success_stat_checkin": "Check-in Time",
+  "success_stat_satisfaction": "Guest Satisfaction",
+  "success_stat_recommend": "Would Recommend",
+  "success_stat_response": "Response Time",
+  "success_stat_direct_bookings": "Direct Bookings",
+  "success_stat_app_rating": "App Rating",
+  "success_stat_digital": "Digital Check-in",
+  "success_stat_savings": "Energy Savings",
+  "success_stat_experience": "Experience Score",
+  "success_verified_guest": "Verified Guest",
+  "success_location_cusco": "Historic Center, Cusco",
+  "success_location_lima": "Miraflores, Lima",
+  "success_location_chain": "4 Locations, Peru",
+  "success_medium_badge": "Medium Hotel",
+  "success_badge_boutique": "Boutique",
+  "success_badge_chain": "Hotel Chain"
 }
-

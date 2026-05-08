@@ -7,7 +7,6 @@
   "nav_resources": "Recursos",
   "nav_login": "Iniciar Sesión",
   "nav_register": "Registrarse",
-
   "//--- HOME PAGE: HERO & ABOUT ---": {},
   "hero_title": "Gestión Hotelera + IoT: La Sinergia Perfecta",
   "hero_subtitle": "Desata el potencial de tu hotel con un ecosistema inteligente que optimiza la operación y revoluciona la experiencia de tus huéspedes.",
@@ -25,7 +24,6 @@
   "team_member4_role": "Diseñadora UX/UI",
   "team_member5_name": "Alex Lee",
   "team_member5_role": "QA y Testing",
-
   "//--- HOME PAGE: PILOT & TESTIMONIAL ---": {},
   "pilot_testimonial_text": "\"Con Smart Stay, hemos reducido el tiempo de gestión de reservas y check-in/check-out en un 40%, optimizando el trabajo de nuestro personal. La plataforma es intuitiva y el soporte está siempre disponible cuando lo necesitamos.\"",
   "pilot_testimonial_name": "María López",
@@ -33,7 +31,6 @@
   "pilot_title": "Agenda tu Programa Piloto",
   "pilot_subtitle": "Descubre de primera mano cómo Smart Stay puede transformar tu hotel. Comencemos la conversación.",
   "pilot_cta": "Reservar una Llamada",
-
   "//--- PRODUCTS PAGE ---": {},
   "products_hero_title": "Nuestros Productos: Tecnología que Transforma la Gestión Hotelera",
   "products_hero_subtitle": "Desde reservas hasta experiencias inteligentes, todo en un solo lugar.",
@@ -54,7 +51,6 @@
   "product4_title": "Seguridad y Soporte",
   "product4_feat1": "Control de Accesos: Llaves digitales o NFC para huéspedes y personal.",
   "product4_feat2": "Soporte y Capacitación 24/7: Asistencia al personal y formación continua.",
-
   "//--- SOLUTIONS PAGE ---": {},
   "solutions_title": "Soluciones adaptadas a cada tipo de establecimientos",
   "solutions_cta": "Conoce nuestros packs:",
@@ -84,7 +80,6 @@
   "solutions_pack3_li4": "App para Huéspedes",
   "solutions_pack3_li5": "Soporte 24/7",
   "solutions_pack3_btn": "Descargar Folleto",
-
   "//--- PRICING PAGE ---": {},
   "pricing_hero_title": "Nuestros Precios y Planes",
   "pricing_hero_subtitle": "Para que se adapte a tus necesidades",
@@ -120,7 +115,6 @@
   "pricing_feat_support": "Soporte 24/7",
   "pricing_support_basic": "Básico (email y chat)",
   "pricing_support_premium": "Premium (teléfono + onboarding personalizado)",
-
   "//--- SUCCESS STORIES PAGE ---": {},
   "success_hero_title": "Casos de éxito de hoteles con SMARTSTAY",
   "success_hero_subtitle": "¿Qué dicen ellos y sus huéspedes?",
@@ -137,7 +131,6 @@
   "success_story3_main_quote": "\"Lo que más nos sorprendió fue la rapidez de implementación. En menos de dos meses teníamos el sistema funcionando en todos nuestros hoteles y con el staff capacitado.\"",
   "success_story3_main_author": "Director de Tecnología",
   "success_story3_guest_quote": "\"Me impresionó poder controlar las luces, el aire y las cortinas desde mi celular. Fue como estar en un hotel inteligente, mucho más cómodo que en otros lugares donde he estado.\"",
-
   "//--- RESOURCES PAGE ---": {},
   "resources_hero_title": "Documentación de Productos",
   "resources_doc1_title": "PMS (Property Management System)",
@@ -153,7 +146,6 @@
   "resources_blog2_title": "Hoteles Inteligentes: Tendencias y Soluciones Tecnológicas",
   "resources_blog3_title": "Optimización de Operaciones Hoteleras",
   "resources_blog_btn": "Visitar",
-
   "//--- FOOTER ---": {},
   "footer_tagline": "Transformando la hospitalidad con tecnología.",
   "footer_product": "Producto",
@@ -174,7 +166,6 @@
   "team_video_ceo": "CEO – Italo Verona",
   "team_video_cto": "CTO – Jane Doe",
   "team_video_cmo": "CMO – Emily Martinez",
-
   "// --- FORMULARIO DE CONTACTO ---": {},
   "contact_title": "Contáctanos",
   "contact_subtitle": "Cuéntanos sobre tu hotel y construyamos algo increíble juntos.",
@@ -192,5 +183,25 @@
   "try_apk_title": "Experimenta Smart Stay Ahora",
   "try_apk_subtitle": "No te quedes solo en la lectura. Descarga nuestra app móvil directamente desde nuestro repositorio y prueba la experiencia del huésped de primera mano.",
   "try_apk_btn": "Probar Ahora (APK)",
-  "try_apk_note": "*Disponible para dispositivos Android."
+  "try_apk_note": "*Disponible para dispositivos Android.",
+  "success_highlight_hotels": "+150 Hoteles Conectados",
+  "success_highlight_time": "Tiempo Ahorrado",
+  "success_highlight_systems": "Sistemas Unificados",
+  "success_highlight_rating": "Calificación Huésped",
+  "success_stat_checkin": "Tiempo Check-in",
+  "success_stat_satisfaction": "Satisfacción Huésped",
+  "success_stat_recommend": "Recomendarían",
+  "success_stat_response": "Tiempo Respuesta",
+  "success_stat_direct_bookings": "Reservas Directas",
+  "success_stat_app_rating": "App Rating",
+  "success_stat_digital": "Check-in Digital",
+  "success_stat_savings": "Ahorro Energía",
+  "success_stat_experience": "Puntaje Experiencia",
+  "success_verified_guest": "Huésped Verificado",
+  "success_location_cusco": "Centro Histórico, Cusco",
+  "success_location_lima": "Miraflores, Lima",
+  "success_location_chain": "4 Sucursales, Perú",
+  "success_medium_badge": "Hotel Mediano",
+  "success_badge_boutique": "Boutique",
+  "success_badge_chain": "Cadena Hotelera"
 }
